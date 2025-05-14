@@ -1,0 +1,2 @@
+# pdf-question-answering-rag
+A Retrieval-Augmented Generation (RAG)-based Question Answering system that allows users to ask questions from uploaded PDF documents. This app extracts content from PDFs, processes it using state-of-the-art NLP techniques, and returns precise answers in real-time. Built using Python, this system integrates file handling, text extraction, and language models to deliver efficient document understanding.
