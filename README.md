@@ -12,7 +12,7 @@ A RAG-based Question Answering system that lets users ask questions from uploade
 - 📁 Upload multiple PDF files
 - 🔍 Ask questions and get precise answers
 - 🧠 RAG (Retrieval-Augmented Generation) based answering
-- 📄 Highlights relevant answers in PDFs
+- 📄 Highlights relevant answers in PDFs.
 - 🎧 Optional text-to-speech support (MP3)
 - ⚙️ Easy configuration with `.env` and `requirements.txt`
 
